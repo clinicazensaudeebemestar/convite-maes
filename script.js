@@ -3,7 +3,7 @@ const videoContainer = document.getElementById('video-container');
 const hint = document.getElementById('hint-text');
 const voucherCard = document.getElementById('voucher-card');
 
-const whatsappUrl = "https://api.whatsapp.com/send?phone=555189094308&text=Ol%C3%A1%2C%20gostaria%20de%20confirmar%20minha%20presença%20no%20evento%20lift%20e%20brinde%20à%20beleza%20de%20dia%20das%20mães%20!%20&fbclid=PAT01DUARY0utleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadMwSDwY-ncKVjrl-MKcXVE_LtCPmjs6mzynWjbUXM_skUyM1qgPAlo7yqzpg_aem_y02LFnoNjpAMjPCSBwHpfQ";
+const whatsappUrl = "https://api.whatsapp.com/send?phone=555189797105&text=Ol%C3%A1%2C%20gostaria%20de%20confirmar%20minha%20presença%20no%20evento%20lift%20e%20brinde%20à%20beleza%20de%20dia%20das%20mães%20!%20&fbclid=PAT01DUARY0utleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadMwSDwY-ncKVjrl-MKcXVE_LtCPmjs6mzynWjbUXM_skUyM1qgPAlo7yqzpg_aem_y02LFnoNjpAMjPCSBwHpfQ";
 
 videoContainer.addEventListener('click', () => {
     // Esconde o texto de instrução imediatamente
